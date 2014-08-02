@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath-configuration port="8888">
+	<component name="exaple1" >
+	     <implementation.java class="com.test.WebService"/>
+	</component>	 
+</classpath-configuration>           
